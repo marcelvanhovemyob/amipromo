@@ -1,1 +1,2 @@
-#AMI - Agile Management Innovations - Promotional Site
+#AMI - Agile Management Innovations
+##Promotional Site
