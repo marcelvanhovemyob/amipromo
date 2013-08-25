@@ -1,4 +1,1 @@
-macro2micro
-===========
-
-Macro to Micro brochure
+#AMI - Agile Management Innovations - Promotional Site
