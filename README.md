@@ -1,4 +1,4 @@
-amipromo
-========
+macro2micro
+===========
 
-Agile Management Innovations - Promotional page
+Macro to Micro brochure
