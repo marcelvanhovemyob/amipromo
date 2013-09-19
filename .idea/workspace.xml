@@ -24,7 +24,7 @@
     <file path="$PROJECT_DIR$/../archieuitest/spec/australia/accountants_division/ao_server_license_au_spec.rb" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379296802615" ignored="false" />
     <file path="$PROJECT_DIR$/../archieuitest/configuration/configatron.rb" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379296809696" ignored="false" />
     <file path="$PROJECT_DIR$/../archieuitest/lib/utilities.rb" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379296809696" ignored="false" />
-    <file path="/rally.html" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379572984670" ignored="false" />
+    <file path="/rally.html" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379574062522" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <file leaf-file-name="rally.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rally.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="116" selection-start="2863" selection-end="2863" vertical-scroll-proportion="0.29250458">
+            <state line="89" column="59" selection-start="2806" selection-end="2806" vertical-scroll-proportion="0.29250458">
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -421,7 +421,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rally.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="116" selection-start="2863" selection-end="2863" vertical-scroll-proportion="0.29250458">
+        <state line="89" column="59" selection-start="2806" selection-end="2806" vertical-scroll-proportion="0.29250458">
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
