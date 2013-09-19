@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53387da1-5824-4797-8571-7d2b7362e570" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rally.html" afterPath="$PROJECT_DIR$/rally.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="amipromo.iws" />
@@ -24,7 +25,7 @@
     <file path="$PROJECT_DIR$/../archieuitest/spec/australia/accountants_division/ao_server_license_au_spec.rb" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379296802615" ignored="false" />
     <file path="$PROJECT_DIR$/../archieuitest/configuration/configatron.rb" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379296809696" ignored="false" />
     <file path="$PROJECT_DIR$/../archieuitest/lib/utilities.rb" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379296809696" ignored="false" />
-    <file path="/rally.html" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379314283513" ignored="false" />
+    <file path="/rally.html" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379572984670" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <file leaf-file-name="rally.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rally.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="147" selection-start="3298" selection-end="3298" vertical-scroll-proportion="0.10861423">
+            <state line="105" column="78" selection-start="3664" selection-end="3664" vertical-scroll-proportion="0.88299817">
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -111,8 +112,8 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/rally.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/rally.html" />
       </list>
     </option>
   </component>
@@ -421,7 +422,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rally.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="147" selection-start="3298" selection-end="3298" vertical-scroll-proportion="0.10861423">
+        <state line="105" column="78" selection-start="3664" selection-end="3664" vertical-scroll-proportion="0.88299817">
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
