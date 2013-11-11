@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53387da1-5824-4797-8571-7d2b7362e570" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/visual.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visual.html" afterPath="$PROJECT_DIR$/visual.html" />
     </list>
     <ignored path="amipromo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,7 +68,7 @@
       <file leaf-file-name="visual.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/visual.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="75" selection-start="3045" selection-end="3045" vertical-scroll-proportion="1.7026407">
+            <state line="90" column="10" selection-start="2866" selection-end="2866" vertical-scroll-proportion="0.7072331">
               <folding />
             </state>
           </provider>
@@ -458,7 +457,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/visual.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="75" selection-start="3045" selection-end="3045" vertical-scroll-proportion="1.7026407">
+        <state line="90" column="10" selection-start="2866" selection-end="2866" vertical-scroll-proportion="0.7072331">
           <folding />
         </state>
       </provider>
