@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="53387da1-5824-4797-8571-7d2b7362e570" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visual.html" afterPath="$PROJECT_DIR$/visual.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="amipromo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,7 +66,7 @@
       <file leaf-file-name="visual.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/visual.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="49" selection-start="3585" selection-end="3585" vertical-scroll-proportion="2.682891">
+            <state line="89" column="137" selection-start="2863" selection-end="2863" vertical-scroll-proportion="0.14749263">
               <folding />
             </state>
           </provider>
@@ -450,7 +449,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/visual.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="49" selection-start="3585" selection-end="3585" vertical-scroll-proportion="2.682891">
+        <state line="89" column="137" selection-start="2863" selection-end="2863" vertical-scroll-proportion="0.14749263">
           <folding />
         </state>
       </provider>
