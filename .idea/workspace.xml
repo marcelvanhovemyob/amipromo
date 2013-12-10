@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="53387da1-5824-4797-8571-7d2b7362e570" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visual.html" afterPath="$PROJECT_DIR$/visual.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="amipromo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1384138774129" ignored="false" />
+    <file path="/Dummy.txt" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1386638088620" ignored="false" />
     <file path="/index.html" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1378352483675" ignored="false" />
     <file path="/README.md" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1378796461577" ignored="false" />
     <file path="$PROJECT_DIR$/../archieuitest/Gemfile" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1378707855861" ignored="false" />
@@ -25,7 +26,7 @@
     <file path="$PROJECT_DIR$/../archieuitest/configuration/configatron.rb" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379296809696" ignored="false" />
     <file path="$PROJECT_DIR$/../archieuitest/lib/utilities.rb" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379296809696" ignored="false" />
     <file path="/rally.html" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1381462880694" ignored="false" />
-    <file path="/visual.html" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1384139310661" ignored="false" />
+    <file path="/visual.html" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1386638229191" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +58,8 @@
       <file leaf-file-name="rally.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rally.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="110" column="46" selection-start="3965" selection-end="3965" vertical-scroll-proportion="-20.0">
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="110" column="46" selection-start="3965" selection-end="3965" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -68,7 +67,7 @@
       <file leaf-file-name="visual.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/visual.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="10" selection-start="2866" selection-end="2866" vertical-scroll-proportion="0.7072331">
+            <state line="107" column="49" selection-start="3585" selection-end="3585" vertical-scroll-proportion="2.682891">
               <folding />
             </state>
           </provider>
@@ -121,8 +120,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
-    <option name="width" value="1928" />
-    <option name="height" value="1044" />
+    <option name="width" value="1608" />
+    <option name="height" value="864" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -185,12 +184,12 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../myapi" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="229" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="908" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="904" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="908" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="228" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="222" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FullScreen" value="false" />
   </component>
@@ -267,14 +266,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
+    <frame x="-4" y="-4" width="1608" height="864" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18463181" sideWeight="0.6710311" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18725869" sideWeight="0.6710311" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -360,9 +359,7 @@
     <entry file="file://$PROJECT_DIR$/rally.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="86" column="65" selection-start="2639" selection-end="2639" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -397,9 +394,7 @@
     <entry file="file://$PROJECT_DIR$/rally.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="97" column="53" selection-start="3066" selection-end="3066" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -448,16 +443,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rally.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="46" selection-start="3965" selection-end="3965" vertical-scroll-proportion="-20.0">
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="110" column="46" selection-start="3965" selection-end="3965" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/visual.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="10" selection-start="2866" selection-end="2866" vertical-scroll-proportion="0.7072331">
+        <state line="107" column="49" selection-start="3585" selection-end="3585" vertical-scroll-proportion="2.682891">
           <folding />
         </state>
       </provider>
