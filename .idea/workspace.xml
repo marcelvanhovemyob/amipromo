@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="53387da1-5824-4797-8571-7d2b7362e570" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visual.html" afterPath="$PROJECT_DIR$/visual.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="amipromo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1386638088620" ignored="false" />
+    <file path="/Dummy.txt" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1393300901246" ignored="false" />
     <file path="/index.html" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1378352483675" ignored="false" />
     <file path="/README.md" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1378796461577" ignored="false" />
     <file path="$PROJECT_DIR$/../archieuitest/Gemfile" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1378707855861" ignored="false" />
@@ -25,7 +26,7 @@
     <file path="$PROJECT_DIR$/../archieuitest/configuration/configatron.rb" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379296809696" ignored="false" />
     <file path="$PROJECT_DIR$/../archieuitest/lib/utilities.rb" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1379296809696" ignored="false" />
     <file path="/rally.html" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1381462880694" ignored="false" />
-    <file path="/visual.html" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1386638393659" ignored="false" />
+    <file path="/visual.html" changelist="53387da1-5824-4797-8571-7d2b7362e570" time="1393300917312" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <file leaf-file-name="visual.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/visual.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="62" selection-start="3056" selection-end="3056" vertical-scroll-proportion="0.32300884">
+            <state line="85" column="14" selection-start="2534" selection-end="2534" vertical-scroll-proportion="0.6017699">
               <folding />
             </state>
           </provider>
@@ -148,7 +149,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -169,6 +169,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,7 +273,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18725869" sideWeight="0.6710311" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1924067" sideWeight="0.6710311" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -449,7 +450,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/visual.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="62" selection-start="3056" selection-end="3056" vertical-scroll-proportion="0.32300884">
+        <state line="85" column="14" selection-start="2534" selection-end="2534" vertical-scroll-proportion="0.6017699">
           <folding />
         </state>
       </provider>
